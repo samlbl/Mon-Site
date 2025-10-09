@@ -446,7 +446,7 @@ header{
 
     .containerVen1 img{
         height: 300px;
-        width: 25%;
+        width : 80%;
     }
     .aside{
         display: flex;
@@ -456,6 +456,12 @@ header{
     
     /* #######################*/
     /* Page Comment vendre*/
+
+        .containerCon{
+            padding : 20px 0;
+        width : 100%;
+    }
+  
     .sc{
         display: flex;
         flex-direction: column;
@@ -464,10 +470,14 @@ header{
     }
     .sc img{
         height: 200px;
-        width: 40%;
+        width: 50%;
     }
     .sc p{
-        text-align: justify;
+        width : 90%;
+        text-align : justify;
+    }
+    .bottom .form .val{
+        padding : 8px;
     }
     /* ########################*/
     
