@@ -446,6 +446,7 @@ header{
 
     .containerVen1 img{
         height: 300px;
+        width: 25%;
     }
     .aside{
         display: flex;
@@ -463,7 +464,10 @@ header{
     }
     .sc img{
         height: 200px;
-        width: 50%;
+        width: 40%;
+    }
+    .sc p{
+        text-align: justify;
     }
     /* ########################*/
     
